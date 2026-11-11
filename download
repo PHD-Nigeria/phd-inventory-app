@@ -1,0 +1,5 @@
+node_modules
+.env
+.env.*
+# 02_seed.sql contains staff names/emails from the inventory (personal data). Keep it OUT of GitHub.
+supabase/02_seed.sql
